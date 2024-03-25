@@ -1,0 +1,26 @@
+h3 {
+  text-align: center;
+}
+
+.right-block {
+  width: 200px;
+  border: 3px solid black;
+  margin-right: 20px;
+}
+
+.right-block ul li {
+  list-style-type: none;
+}
+
+.right-block ul {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.right-block-button {
+  display: flex;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
